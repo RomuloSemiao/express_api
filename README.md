@@ -64,5 +64,6 @@ Mais detalhes das rotas podem ser encontrados no arquivo `routes.js`.
 ---
 
 Entre em contato pelo meu [Linkedin](https://www.linkedin.com/in/romulosemiao/)
+
 Desenvolvido por [Romulo Semião](https://github.com/RomuloSemiao) 🚀
 
